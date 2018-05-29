@@ -5,3 +5,4 @@ out.println("Привет Всем");
 
 
 out.println("Всем пока");
+remove.user
