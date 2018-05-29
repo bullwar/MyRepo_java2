@@ -5,4 +5,11 @@ out.println("Привет Всем");
 
 
 out.println("Всем пока");
-remove.user
+out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+
