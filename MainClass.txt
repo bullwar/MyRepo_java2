@@ -5,3 +5,11 @@ out.println("Привет Всем");
 
 
 out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+out.println("Всем пока");
+
