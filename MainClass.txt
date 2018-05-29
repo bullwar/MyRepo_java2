@@ -2,3 +2,6 @@ out.println("Hello");
 out.println("Hello All");
 out.println("Привет");
 out.println("Привет Всем");
+
+
+out.println("Всем пока");
